@@ -18,4 +18,18 @@
 ![image](https://user-images.githubusercontent.com/94914428/221246698-88deca5e-38dc-49aa-bff7-abeed91b735c.png)
 
 
+## 获取用户信息
+先从登录用户那里拿到token，返回给前端
+![image](https://user-images.githubusercontent.com/94914428/221336364-ae971011-f6dd-47de-85f8-d9e6aa85214f.png)
+
+拿到这一行token填入
+
+![image](https://user-images.githubusercontent.com/94914428/221336549-0e6c42a3-829a-443b-b3a1-8cdec51711c3.png)
+
+发送后便成功拿到用户信息
+
+![image](https://user-images.githubusercontent.com/94914428/221336635-0ee002dc-e286-4370-87a8-20d9bbc571a7.png)
+
+**剩下的用户更新密码，更新用户名头像这些便如此操作**
+
 
