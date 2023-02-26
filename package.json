@@ -1,0 +1,23 @@
+{
+  "name": "api-server-demoo",
+  "version": "1.0.0",
+  "description": "api的创建服务实验",
+  "main": "app.js",
+  "scripts": {
+    "egg": "nodemon app.js"
+  },
+  "author": "linghucong",
+  "license": "ISC",
+  "dependencies": {
+    "@escook/express-joi": "^1.1.1",
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-jwt": "^8.4.0",
+    "joi": "^17.7.0",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1"
+  }
+}
